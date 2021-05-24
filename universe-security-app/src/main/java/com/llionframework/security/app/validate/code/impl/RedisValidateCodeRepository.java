@@ -1,24 +1,19 @@
-
 package com.llionframework.security.app.validate.code.impl;
 
 import java.util.concurrent.TimeUnit;
 
+import com.llionframework.security.core.validate.code.ValidateCode;
+import com.llionframework.security.core.validate.code.ValidateCodeException;
+import com.llionframework.security.core.validate.code.ValidateCodeRepository;
+import com.llionframework.security.core.validate.code.ValidateCodeType;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.web.context.request.ServletWebRequest;
 
-import com.imooc.security.core.validate.code.ValidateCode;
-import com.imooc.security.core.validate.code.ValidateCodeException;
-import com.imooc.security.core.validate.code.ValidateCodeRepository;
-import com.imooc.security.core.validate.code.ValidateCodeType;
-
 /**
  * 基于redis的验证码存取器，避免由于没有session导致无法存取验证码的问题
- * 
- *
- *
  */
 @Component
 public class RedisValidateCodeRepository implements ValidateCodeRepository {

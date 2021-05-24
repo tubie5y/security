@@ -1,8 +1,10 @@
-
 package com.llionframework.security.app;
 
 import javax.servlet.http.HttpServletRequest;
 
+import com.llionframework.security.core.properties.SecurityConstants;
+import com.llionframework.security.core.social.SocialController;
+import com.llionframework.security.core.social.support.SocialUserInfo;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.social.connect.Connection;
@@ -13,12 +15,8 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.ServletWebRequest;
 
 import com.llionframework.security.app.social.AppSingUpUtils;
-import com.imooc.security.core.properties.SecurityConstants;
-import com.imooc.security.core.social.SocialController;
-import com.imooc.security.core.social.support.SocialUserInfo;
 
 /**
- *
  *
  */
 @RestController

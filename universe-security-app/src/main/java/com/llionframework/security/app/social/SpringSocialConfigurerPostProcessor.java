@@ -1,16 +1,13 @@
-
 package com.llionframework.security.app.social;
 
+import com.llionframework.security.core.properties.SecurityConstants;
+import com.llionframework.security.core.social.support.ImoocSpringSocialConfigurer;
 import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.stereotype.Component;
 
-import com.imooc.security.core.properties.SecurityConstants;
-import com.imooc.security.core.social.support.ImoocSpringSocialConfigurer;
-
 /**
- *
  *
  */
 @Component
