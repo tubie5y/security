@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
  * 认证服务器注册的第三方应用配置项
  * 
- * @author zhailiang
+ *
  *
  */
 public class OAuth2ClientProperties {

@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.support;
 
 /**
  * 简单响应的封装类
  * 
- * @author zhailiang
+ *
  *
  */
 public class SimpleResponse {

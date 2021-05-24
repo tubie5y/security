@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authorize;
 
 import org.apache.commons.lang.StringUtils;
@@ -16,7 +14,7 @@ import com.llionframework.security.core.properties.SecurityProperties;
 /**
  * 核心模块的授权配置提供器，安全模块涉及的url的授权配置在这里。
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

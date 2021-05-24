@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.web.controller.support;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class SimpleResponse {

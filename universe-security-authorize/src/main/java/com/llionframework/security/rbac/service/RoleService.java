@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service;
 
 import java.util.List;
@@ -10,7 +8,7 @@ import com.llionframework.security.rbac.dto.RoleInfo;
 /**
  * 角色服务
  * 
- * @author zhailiang
+ *
  *
  */
 public interface RoleService {

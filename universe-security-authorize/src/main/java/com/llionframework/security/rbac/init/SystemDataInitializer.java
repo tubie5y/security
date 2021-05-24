@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.init;
 
 import java.util.List;
@@ -16,7 +14,7 @@ import org.springframework.stereotype.Component;
 /**
  * 系统初始化器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

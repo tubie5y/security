@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 import org.springframework.boot.autoconfigure.social.SocialProperties;
@@ -9,7 +7,7 @@ import org.springframework.boot.autoconfigure.social.SocialProperties;
  * QQ登录配置项
  * 
  * 
- * @author zhailiang
+ *
  *
  */
 public class QQProperties extends SocialProperties {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.authentication.openid;
 
 import java.util.Collection;
@@ -10,7 +8,7 @@ import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.SpringSecurityCoreVersion;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class OpenIdAuthenticationToken extends AbstractAuthenticationToken {

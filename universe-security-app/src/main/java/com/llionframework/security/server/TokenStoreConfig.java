@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.server;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -18,7 +16,7 @@ import org.springframework.security.oauth2.provider.token.store.redis.RedisToken
 import com.imooc.security.core.properties.SecurityProperties;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Configuration
@@ -26,7 +24,7 @@ public class TokenStoreConfig {
 	
 	/**
 	 * 使用redis存储token的配置，只有在imooc.security.oauth2.tokenStore配置为redis时生效
-	 * @author zhailiang
+	 *
 	 *
 	 */
 	@Configuration
@@ -49,7 +47,7 @@ public class TokenStoreConfig {
 	/**
 	 * 使用jwt时的配置，默认生效
 	 * 
-	 * @author zhailiang
+	 *
 	 *
 	 */
 	@Configuration

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import java.io.IOException;
@@ -27,7 +25,7 @@ import org.springframework.web.filter.OncePerRequestFilter;
 /**
  * 校验验证码的过滤器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("validateCodeFilter")

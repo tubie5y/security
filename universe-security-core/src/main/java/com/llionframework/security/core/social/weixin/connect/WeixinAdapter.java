@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.weixin.connect;
 
 import org.springframework.social.connect.ApiAdapter;
@@ -14,7 +12,7 @@ import com.llionframework.security.core.social.weixin.api.WeixinUserInfo;
  * 微信 api适配器，将微信 api的数据模型转为spring social的标准模型。
  * 
  * 
- * @author zhailiang
+ *
  *
  */
 public class WeixinAdapter implements ApiAdapter<Weixin> {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social;
 
 import javax.sql.DataSource;
@@ -24,7 +22,7 @@ import org.springframework.social.security.SpringSocialConfigurer;
 /**
  * 社交登录配置主类
  * 
- * @author zhailiang
+ *
  *
  */
 @Configuration

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.api;
 
 import org.apache.commons.lang.StringUtils;
@@ -10,7 +8,7 @@ import org.springframework.social.oauth2.TokenStrategy;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QQImpl extends AbstractOAuth2ApiBinding implements QQ {

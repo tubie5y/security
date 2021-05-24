@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import java.io.Serializable;
@@ -10,7 +8,7 @@ import java.time.LocalDateTime;
 /**
  * 验证码信息封装类
  * 
- * @author zhailiang
+ *
  *
  */
 public class ValidateCode implements Serializable {

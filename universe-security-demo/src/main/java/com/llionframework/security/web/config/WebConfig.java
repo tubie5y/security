@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.config;
 
 import com.imooc.web.filter.TimeFilter;
@@ -15,7 +13,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Configuration

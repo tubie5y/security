@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.app;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class AppSecretException extends RuntimeException {

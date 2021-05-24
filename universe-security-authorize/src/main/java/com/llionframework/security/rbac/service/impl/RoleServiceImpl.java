@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service.impl;
 
 
@@ -25,7 +23,7 @@ import com.llionframework.security.rbac.domain.Role;
 import com.llionframework.security.rbac.domain.RoleResource;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Service

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.repository.support;
 
 import java.util.List;

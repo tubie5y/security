@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.domain;
 
 import java.util.ArrayList;
@@ -30,7 +28,7 @@ import org.springframework.data.annotation.CreatedDate;
  * 
  * 树形结构。
  * 
- * @author zhailiang
+ *
  *
  */
 @Entity

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import java.util.Map;
@@ -11,7 +9,7 @@ import org.springframework.stereotype.Component;
 /**
  * 校验码处理器管理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

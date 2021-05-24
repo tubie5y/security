@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.interceptor;
 
 import org.springframework.stereotype.Component;
@@ -13,7 +11,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Date;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

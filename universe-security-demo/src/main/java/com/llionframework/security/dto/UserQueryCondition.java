@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.dto;
 
 import io.swagger.annotations.ApiModelProperty;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class UserQueryCondition {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.support;
 
 import org.springframework.social.security.SocialAuthenticationFilter;
@@ -9,7 +7,7 @@ import org.springframework.social.security.SpringSocialConfigurer;
 /**
  * 继承默认的社交登录配置，加入自定义的后处理逻辑
  * 
- * @author zhailiang
+ *
  *
  */
 public class ImoocSpringSocialConfigurer extends SpringSocialConfigurer {

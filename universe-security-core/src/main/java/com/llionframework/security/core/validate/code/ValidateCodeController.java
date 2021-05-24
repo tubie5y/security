@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import javax.servlet.http.HttpServletRequest;
@@ -16,7 +14,7 @@ import org.springframework.web.context.request.ServletWebRequest;
 /**
  * 生成校验码的请求处理器
  * 
- * @author zhailiang
+ *
  *
  */
 @RestController

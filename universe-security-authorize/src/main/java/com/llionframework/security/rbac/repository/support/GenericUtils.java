@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.repository.support;
 
 import java.lang.reflect.ParameterizedType;
@@ -8,7 +6,7 @@ import java.lang.reflect.Type;
 
 /**
  * 泛型工具
- * @author zhailiang
+ *
  *
  */
 public class GenericUtils {

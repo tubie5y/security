@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.imooc.sso.server;
 
 import java.util.HashMap;
@@ -20,7 +18,7 @@ import org.springframework.web.servlet.View;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class SsoSpelView implements View {

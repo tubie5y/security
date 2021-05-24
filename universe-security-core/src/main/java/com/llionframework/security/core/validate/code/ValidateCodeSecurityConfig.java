@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import javax.servlet.Filter;
@@ -15,7 +13,7 @@ import org.springframework.stereotype.Component;
 /**
  * 校验码相关安全配置
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("validateCodeSecurityConfig")

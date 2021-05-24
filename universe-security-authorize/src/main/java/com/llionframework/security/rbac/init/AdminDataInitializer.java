@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.init;
 
 import java.util.HashSet;
@@ -23,7 +21,7 @@ import org.springframework.stereotype.Component;
 /**
  * 默认的系统数据初始化器，永远在其他数据初始化器之前执行
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

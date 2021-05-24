@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.validator;
 
 import javax.validation.Constraint;
@@ -11,7 +9,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Target({ElementType.METHOD, ElementType.FIELD})

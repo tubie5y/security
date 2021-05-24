@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.authentication.openid;
 
 import java.util.HashSet;
@@ -16,7 +14,7 @@ import org.springframework.social.connect.UsersConnectionRepository;
 import org.springframework.social.security.SocialUserDetailsService;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class OpenIdAuthenticationProvider implements AuthenticationProvider {

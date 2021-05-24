@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class SmsCodeProperties {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authentication;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +12,7 @@ import com.llionframework.security.core.properties.SecurityConstants;
 /**
  * 表单登录配置
  * 
- * @author zhailiang
+ *
  */
 @Component
 public class FormAuthenticationConfig {

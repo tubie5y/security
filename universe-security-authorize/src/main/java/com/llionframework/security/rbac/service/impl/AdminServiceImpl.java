@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service.impl;
 
 import com.llionframework.security.rbac.domain.RoleAdmin;
@@ -24,7 +22,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.llionframework.security.rbac.domain.Admin;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Service

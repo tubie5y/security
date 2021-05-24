@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser.session;
 
 import java.io.IOException;
@@ -24,7 +22,7 @@ import com.imooc.security.core.support.SimpleResponse;
 /**
  * 抽象的session失效处理器
  * 
- * @author zhailiang
+ *
  *
  */
 public class AbstractSessionStrategy {

@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.exception;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class UserNotExistException extends RuntimeException {

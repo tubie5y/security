@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.weixin.connect;
 
 import org.springframework.social.connect.ApiAdapter;
@@ -16,7 +14,7 @@ import com.llionframework.security.core.social.weixin.api.Weixin;
 /**
  * 微信连接工厂
  * 
- * @author zhailiang
+ *
  *
  */
 public class WeixinConnectionFactory extends OAuth2ConnectionFactory<Weixin> {

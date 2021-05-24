@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.validator;
 
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -8,7 +6,7 @@ import org.aspectj.lang.annotation.Around;
 import org.springframework.validation.BindingResult;
 
 /**
- * @author zhailiang
+ *
  *
  */
 //@Aspect

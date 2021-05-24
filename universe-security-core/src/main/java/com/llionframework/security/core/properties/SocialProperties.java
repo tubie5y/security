@@ -1,11 +1,9 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
  * 社交登录配置项
- * @author zhailiang
+ *
  *
  */
 public class SocialProperties {

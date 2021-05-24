@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app;
 
 import javax.servlet.http.HttpServletRequest;
@@ -20,7 +18,7 @@ import com.imooc.security.core.social.SocialController;
 import com.imooc.security.core.social.support.SocialUserInfo;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

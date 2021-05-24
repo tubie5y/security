@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser.validate.code.impl;
 
 import org.springframework.social.connect.web.HttpSessionSessionStrategy;
@@ -15,7 +13,7 @@ import com.imooc.security.core.validate.code.ValidateCodeType;
 /**
  * 基于session的验证码存取器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

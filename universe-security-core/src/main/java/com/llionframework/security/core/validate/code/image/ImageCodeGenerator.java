@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.image;
 
 import java.awt.Color;
@@ -18,7 +16,7 @@ import com.llionframework.security.core.validate.code.ValidateCodeGenerator;
 
 /**
  * 默认的图片验证码生成器
- * @author zhailiang
+ *
  *
  */
 public class ImageCodeGenerator implements ValidateCodeGenerator {

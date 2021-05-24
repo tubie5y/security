@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.async;
 
 import org.springframework.stereotype.Component;
@@ -10,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

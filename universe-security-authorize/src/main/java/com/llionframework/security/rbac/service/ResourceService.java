@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service;
 
 import com.llionframework.security.rbac.dto.ResourceInfo;
@@ -8,7 +6,7 @@ import com.llionframework.security.rbac.dto.ResourceInfo;
 /**
  * 资源服务
  * 
- * @author zhailiang
+ *
  *
  */
 public interface ResourceService {

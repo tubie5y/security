@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
  * 浏览器环境配置项
  * 
- * @author zhailiang
+ *
  *
  */
 public class BrowserProperties {

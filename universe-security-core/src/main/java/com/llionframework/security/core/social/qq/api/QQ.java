@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.api;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public interface QQ {

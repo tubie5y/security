@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.image;
 
 import javax.imageio.ImageIO;
@@ -13,7 +11,7 @@ import com.llionframework.security.core.validate.code.impl.AbstractValidateCodeP
 /**
  * 图片验证码处理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("imageValidateCodeProcessor")

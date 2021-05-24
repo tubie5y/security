@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.imooc.sso.server;
 
 import java.util.Map;
@@ -13,7 +11,7 @@ import org.springframework.web.bind.annotation.SessionAttributes;
 import org.springframework.web.servlet.ModelAndView;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

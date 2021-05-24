@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.authentication;
 
 import java.io.IOException;
@@ -23,7 +21,7 @@ import com.imooc.security.core.support.SimpleResponse;
 /**
  * APP环境下认证失败处理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("imoocAuthenctiationFailureHandler")

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service;
 
 import com.llionframework.security.rbac.dto.AdminCondition;
@@ -11,7 +9,7 @@ import org.springframework.data.domain.Pageable;
 /**
  * 管理员服务
  * 
- * @author zhailiang
+ *
  *
  */
 public interface AdminService {

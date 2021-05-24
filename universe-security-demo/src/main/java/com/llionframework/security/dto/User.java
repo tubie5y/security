@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.dto;
 
 import com.fasterxml.jackson.annotation.JsonView;
@@ -12,7 +10,7 @@ import javax.validation.constraints.Past;
 import java.util.Date;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class User {

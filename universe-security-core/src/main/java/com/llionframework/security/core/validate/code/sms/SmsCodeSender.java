@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.sms;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public interface SmsCodeSender {

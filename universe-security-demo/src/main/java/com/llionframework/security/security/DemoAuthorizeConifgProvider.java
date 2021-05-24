@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.security;
 
 import com.imooc.security.core.authorize.AuthorizeConfigProvider;
@@ -9,7 +7,7 @@ import org.springframework.security.config.annotation.web.configurers.Expression
 import org.springframework.stereotype.Component;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

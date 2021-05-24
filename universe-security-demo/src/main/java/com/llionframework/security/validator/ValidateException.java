@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.validator;
 
 import org.springframework.validation.ObjectError;
@@ -8,7 +6,7 @@ import org.springframework.validation.ObjectError;
 import java.util.List;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class ValidateException extends RuntimeException {

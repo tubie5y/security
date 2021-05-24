@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.support;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class SocialUserInfo {

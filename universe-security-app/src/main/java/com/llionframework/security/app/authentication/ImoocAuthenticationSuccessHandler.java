@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.authentication;
 
 import java.io.IOException;
@@ -33,7 +31,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 /**
  * APP环境下认证成功处理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("imoocAuthenticationSuccessHandler")

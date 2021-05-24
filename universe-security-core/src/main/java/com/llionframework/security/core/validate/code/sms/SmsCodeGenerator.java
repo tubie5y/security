@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.sms;
 
 import com.llionframework.security.core.properties.SecurityProperties;
@@ -15,7 +13,7 @@ import com.llionframework.security.core.validate.code.ValidateCodeGenerator;
 /**
  * 短信验证码生成器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("smsValidateCodeGenerator")

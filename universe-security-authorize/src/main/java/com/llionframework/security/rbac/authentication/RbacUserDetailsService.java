@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.authentication;
 
 import org.slf4j.Logger;
@@ -16,7 +14,7 @@ import com.llionframework.security.rbac.domain.Admin;
 import com.llionframework.security.rbac.repository.AdminRepository;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

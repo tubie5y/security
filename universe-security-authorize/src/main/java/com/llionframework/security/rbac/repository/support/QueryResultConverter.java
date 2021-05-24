@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.repository.support;
 
 import java.util.ArrayList;
@@ -14,7 +12,7 @@ import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.Pageable;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QueryResultConverter {

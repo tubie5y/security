@@ -1,11 +1,9 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
  * 验证码配置
- * @author zhailiang
+ *
  *
  */
 public class ValidateCodeProperties {

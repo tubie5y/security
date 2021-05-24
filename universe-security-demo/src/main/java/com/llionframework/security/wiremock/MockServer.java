@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.wiremock;
 
 import org.apache.commons.io.FileUtils;
@@ -17,7 +15,7 @@ import static com.github.tomakehurst.wiremock.client.WireMock.stubFor;
 import static com.github.tomakehurst.wiremock.client.WireMock.urlPathEqualTo;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class MockServer {

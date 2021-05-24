@@ -1,13 +1,11 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social;
 
 import com.llionframework.security.core.social.support.SocialUserInfo;
 import org.springframework.social.connect.Connection;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public abstract class SocialController {

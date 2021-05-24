@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authentication.mobile;
 
 import java.util.Collection;
@@ -12,7 +10,7 @@ import org.springframework.security.core.SpringSecurityCoreVersion;
 /**
  * 短信登录验证信息封装类
  * 
- * @author zhailiang
+ *
  *
  */
 public class SmsCodeAuthenticationToken extends AbstractAuthenticationToken {

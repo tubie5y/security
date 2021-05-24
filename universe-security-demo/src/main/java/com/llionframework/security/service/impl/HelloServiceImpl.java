@@ -1,13 +1,11 @@
-/**
- * 
- */
+
 package com.llionframework.security.service.impl;
 
 import com.imooc.service.HelloService;
 import org.springframework.stereotype.Service;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Service

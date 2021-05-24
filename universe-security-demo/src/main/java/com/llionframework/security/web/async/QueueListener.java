@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.async;
 
 import org.apache.commons.lang.StringUtils;
@@ -12,7 +10,7 @@ import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.stereotype.Component;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

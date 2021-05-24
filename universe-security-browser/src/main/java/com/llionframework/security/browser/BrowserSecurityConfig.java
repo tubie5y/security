@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser;
 
 import javax.sql.DataSource;
@@ -28,7 +26,7 @@ import com.imooc.security.core.validate.code.ValidateCodeSecurityConfig;
 /**
  * 浏览器环境下安全配置主类
  * 
- * @author zhailiang
+ *
  *
  */
 @Configuration

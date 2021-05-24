@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.controller;
 
 import com.imooc.exception.UserNotExistException;
@@ -14,7 +12,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @ControllerAdvice

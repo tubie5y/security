@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.domain;
 
 import java.util.Date;
@@ -21,7 +19,7 @@ import org.springframework.data.annotation.CreatedDate;
 /**
  * 角色信息
  * 
- * @author zhailiang
+ *
  *
  */
 @Entity

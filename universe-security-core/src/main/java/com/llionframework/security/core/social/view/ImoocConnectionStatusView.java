@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.view;
 
 import java.util.HashMap;
@@ -20,7 +18,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 /**
  * 社交账号绑定状态视图
- * @author zhailiang
+ *
  *
  */
 @Component("connect/status")

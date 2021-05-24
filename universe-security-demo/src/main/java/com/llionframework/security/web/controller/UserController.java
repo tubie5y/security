@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.controller;
 
 import com.fasterxml.jackson.annotation.JsonView;
@@ -37,7 +35,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

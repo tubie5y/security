@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.dto;
 
 import org.hibernate.validator.constraints.NotBlank;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class AdminInfo {

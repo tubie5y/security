@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.connet;
 
 import org.springframework.social.connect.support.OAuth2ConnectionFactory;
@@ -8,7 +6,7 @@ import org.springframework.social.connect.support.OAuth2ConnectionFactory;
 import com.llionframework.security.core.social.qq.api.QQ;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QQConnectionFactory extends OAuth2ConnectionFactory<QQ> {

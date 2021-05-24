@@ -63,7 +63,7 @@ public abstract class AbstractConditionBuilder<T> {
      * 当范围查询的条件是小于，并且值的类型是Date时，将传入的Date值变为当天的夜里12点的值。
      * @param maxValue
      * @return
-     * @author zhailiang
+     *
      * @since 2016年12月14日
      */
     @SuppressWarnings("rawtypes")
@@ -150,7 +150,7 @@ public abstract class AbstractConditionBuilder<T> {
 	 * @param column
 	 * @param value
 	 * @return
-	 * @author zhailiang
+	 *
 	 * @since 2016年12月13日
 	 */
 	@SuppressWarnings("unchecked")

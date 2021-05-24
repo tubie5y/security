@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.connet;
 
 import org.springframework.social.connect.ApiAdapter;
@@ -11,7 +9,7 @@ import com.llionframework.security.core.social.qq.api.QQ;
 import com.llionframework.security.core.social.qq.api.QQUserInfo;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QQAdapter implements ApiAdapter<QQ> {

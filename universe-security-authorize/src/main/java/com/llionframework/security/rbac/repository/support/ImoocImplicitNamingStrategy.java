@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.repository.support;
 
 import org.hibernate.boot.model.naming.Identifier;
@@ -8,7 +6,7 @@ import org.hibernate.boot.model.naming.ImplicitNamingStrategyJpaCompliantImpl;
 import org.hibernate.boot.spi.MetadataBuildingContext;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class ImoocImplicitNamingStrategy extends ImplicitNamingStrategyJpaCompliantImpl {

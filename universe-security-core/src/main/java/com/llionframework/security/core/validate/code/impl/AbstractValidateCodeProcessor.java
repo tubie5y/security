@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.impl;
 
 import java.util.Map;
@@ -20,7 +18,7 @@ import com.llionframework.security.core.validate.code.ValidateCodeType;
 
 /**
  * 抽象的图片验证码处理器
- * @author zhailiang
+ *
  *
  */
 public abstract class AbstractValidateCodeProcessor<C extends ValidateCode> implements ValidateCodeProcessor {

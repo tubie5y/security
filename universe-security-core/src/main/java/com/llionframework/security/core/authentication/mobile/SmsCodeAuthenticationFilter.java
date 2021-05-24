@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authentication.mobile;
 
 import javax.servlet.http.HttpServletRequest;
@@ -18,7 +16,7 @@ import com.llionframework.security.core.properties.SecurityConstants;
 /**
  * 短信登录过滤器
  * 
- * @author zhailiang
+ *
  *
  */
 public class SmsCodeAuthenticationFilter extends AbstractAuthenticationProcessingFilter {

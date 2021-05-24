@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service;
 
 import javax.servlet.http.HttpServletRequest;
@@ -8,7 +6,7 @@ import javax.servlet.http.HttpServletRequest;
 import org.springframework.security.core.Authentication;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public interface RbacService {

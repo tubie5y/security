@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.dto;
 
 import java.util.ArrayList;
@@ -9,7 +7,7 @@ import java.util.List;
 import com.llionframework.security.rbac.domain.ResourceType;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class ResourceInfo {

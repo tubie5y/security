@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authorize;
 
 import java.util.List;
@@ -13,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * 默认的授权配置管理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

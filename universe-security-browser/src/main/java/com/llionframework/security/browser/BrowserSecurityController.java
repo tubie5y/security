@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser;
 
 import java.io.IOException;
@@ -35,7 +33,7 @@ import com.imooc.security.core.support.SimpleResponse;
 /**
  * 浏览器环境下与安全相关的服务
  * 
- * @author zhailiang
+ *
  *
  */
 @RestController

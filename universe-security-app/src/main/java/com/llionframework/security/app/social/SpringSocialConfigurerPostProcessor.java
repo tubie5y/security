@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.social;
 
 import org.apache.commons.lang.StringUtils;
@@ -12,7 +10,7 @@ import com.imooc.security.core.properties.SecurityConstants;
 import com.imooc.security.core.social.support.ImoocSpringSocialConfigurer;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component

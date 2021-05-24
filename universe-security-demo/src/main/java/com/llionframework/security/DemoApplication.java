@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security;
 
 import org.springframework.boot.SpringApplication;
@@ -10,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @SpringBootApplication

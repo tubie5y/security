@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.validator;
 
 import com.imooc.service.HelloService;
@@ -10,7 +8,7 @@ import javax.validation.ConstraintValidator;
 import javax.validation.ConstraintValidatorContext;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class MyConstraintValidator implements ConstraintValidator<MyConstraint, Object> {

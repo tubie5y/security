@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @ConfigurationProperties(prefix = "imooc.security")

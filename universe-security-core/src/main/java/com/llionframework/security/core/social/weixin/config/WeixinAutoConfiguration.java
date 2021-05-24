@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.weixin.config;
 
 import com.llionframework.security.core.properties.SecurityProperties;
@@ -19,7 +17,7 @@ import org.springframework.web.servlet.View;
 /**
  * 微信登录配置
  * 
- * @author zhailiang
+ *
  *
  */
 @Configuration

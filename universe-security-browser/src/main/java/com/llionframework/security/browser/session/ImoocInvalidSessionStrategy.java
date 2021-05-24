@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser.session;
 
 import java.io.IOException;
@@ -16,7 +14,7 @@ import com.imooc.security.core.properties.SecurityProperties;
 /**
  * 默认的session失效处理策略
  * 
- * @author zhailiang
+ *
  *
  */
 public class ImoocInvalidSessionStrategy extends AbstractSessionStrategy implements InvalidSessionStrategy {

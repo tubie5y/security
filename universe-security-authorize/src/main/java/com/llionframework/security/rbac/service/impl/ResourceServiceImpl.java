@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service.impl;
 
 import java.util.List;
@@ -18,7 +16,7 @@ import com.llionframework.security.rbac.domain.Admin;
 import com.llionframework.security.rbac.domain.Resource;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Service

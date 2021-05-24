@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.authorize;
 
 import org.springframework.core.annotation.Order;
@@ -12,7 +10,7 @@ import org.springframework.stereotype.Component;
 import com.imooc.security.core.authorize.AuthorizeConfigProvider;
 
 /**
- * @author zhailiang
+ *
  */
 @Component
 @Order(Integer.MAX_VALUE)

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.code;
 
 import com.imooc.security.core.validate.code.ValidateCodeGenerator;
@@ -8,7 +6,7 @@ import com.imooc.security.core.validate.code.image.ImageCode;
 import org.springframework.web.context.request.ServletWebRequest;
 
 /**
- * @author zhailiang
+ *
  *
  */
 //@Component("imageCodeGenerator")

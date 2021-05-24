@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.imooc;
 
 import javax.servlet.http.HttpServletRequest;
@@ -16,7 +14,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.ServletWebRequest;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @SpringBootApplication

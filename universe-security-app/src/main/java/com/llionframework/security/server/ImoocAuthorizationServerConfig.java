@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.server;
 
 import java.util.ArrayList;
@@ -28,7 +26,7 @@ import com.imooc.security.core.properties.SecurityProperties;
 /**
  * 认证服务器配置
  * 
- * @author zhailiang
+ *
  *
  */
 @Configuration

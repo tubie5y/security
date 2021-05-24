@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser.authorize;
 
 import org.springframework.core.annotation.Order;
@@ -14,7 +12,7 @@ import com.imooc.security.core.authorize.AuthorizeConfigProvider;
 /**
  * 浏览器环境默认的授权配置，对常见的静态资源，如js,css，图片等不验证身份
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

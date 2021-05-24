@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.connet;
 
 import java.nio.charset.Charset;
@@ -15,7 +13,7 @@ import org.springframework.util.MultiValueMap;
 import org.springframework.web.client.RestTemplate;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QQOAuth2Template extends OAuth2Template {

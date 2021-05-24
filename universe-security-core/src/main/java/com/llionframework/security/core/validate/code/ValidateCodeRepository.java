@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import org.springframework.web.context.request.ServletWebRequest;
@@ -8,7 +6,7 @@ import org.springframework.web.context.request.ServletWebRequest;
 /**
  * 校验码存取器
  * 
- * @author zhailiang
+ *
  *
  */
 public interface ValidateCodeRepository {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authentication.mobile;
 
 import java.util.UUID;
@@ -21,7 +19,7 @@ import org.springframework.stereotype.Component;
 /**
  * 短信登录配置
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

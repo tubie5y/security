@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.domain;
 
 import java.util.Collection;
@@ -26,7 +24,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 /**
  * 管理员(用户)
  * 
- * @author zhailiang
+ *
  *
  */
 @Entity

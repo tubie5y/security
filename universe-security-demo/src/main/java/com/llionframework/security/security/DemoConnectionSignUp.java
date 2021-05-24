@@ -1,13 +1,11 @@
-/**
- * 
- */
+
 package com.llionframework.security.security;
 
 import org.springframework.social.connect.Connection;
 import org.springframework.social.connect.ConnectionSignUp;
 
 /**
- * @author zhailiang
+ *
  *
  */
 //@Component

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.authentication;
 
 import org.slf4j.Logger;
@@ -14,7 +12,7 @@ import org.springframework.social.security.SocialUserDetailsService;
  * 
  * 不做任何处理，只在控制台打印一句日志，然后抛出异常，提醒业务系统自己配置SocialUserDetailsService。
  * 
- * @author zhailiang
+ *
  *
  */
 public class DefaultSocialUserDetailsService implements SocialUserDetailsService {

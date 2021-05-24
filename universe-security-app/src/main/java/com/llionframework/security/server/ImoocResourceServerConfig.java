@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.server;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -21,7 +19,7 @@ import com.imooc.security.core.validate.code.ValidateCodeSecurityConfig;
 /**
  * 资源服务器配置
  * 
- * @author zhailiang
+ *
  *
  */
 @Configuration

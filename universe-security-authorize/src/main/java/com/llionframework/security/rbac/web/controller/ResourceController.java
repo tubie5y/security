@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.web.controller;
 
 import com.llionframework.security.rbac.dto.ResourceInfo;
@@ -20,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.llionframework.security.rbac.domain.Admin;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

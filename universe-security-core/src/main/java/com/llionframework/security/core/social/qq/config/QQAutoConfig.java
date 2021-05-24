@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.config;
 
 import com.llionframework.security.core.properties.QQProperties;
@@ -13,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.social.connect.ConnectionFactory;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Configuration

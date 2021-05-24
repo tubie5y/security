@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.view;
 
 import java.util.Map;
@@ -12,7 +10,7 @@ import org.springframework.web.servlet.view.AbstractView;
 
 /**
  * 绑定结果视图
- * @author zhailiang
+ *
  *
  */
 public class ImoocConnectView extends AbstractView {

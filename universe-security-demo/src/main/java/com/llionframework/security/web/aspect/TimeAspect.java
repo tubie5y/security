@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.aspect;
 
 import org.aspectj.lang.ProceedingJoinPoint;
@@ -11,7 +9,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Aspect

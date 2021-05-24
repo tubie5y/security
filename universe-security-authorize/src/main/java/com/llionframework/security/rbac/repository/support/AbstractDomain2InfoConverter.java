@@ -1,13 +1,11 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.repository.support;
 
 import org.springframework.beans.BeanUtils;
 
 
 /**
- * @author zhailiang
+ *
  *
  */
 public abstract class AbstractDomain2InfoConverter<T, I> implements Domain2InfoConverter<T, I> {

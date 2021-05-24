@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.social.qq.connet;
 
 import org.springframework.social.oauth2.AbstractOAuth2ServiceProvider;
@@ -9,7 +7,7 @@ import com.llionframework.security.core.social.qq.api.QQ;
 import com.llionframework.security.core.social.qq.api.QQImpl;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class QQServiceProvider extends AbstractOAuth2ServiceProvider<QQ> {

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.controller;
 
 import com.imooc.dto.FileInfo;
@@ -21,7 +19,7 @@ import java.io.OutputStream;
 import java.util.Date;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

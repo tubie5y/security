@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.filter;
 
 import javax.servlet.Filter;
@@ -13,7 +11,7 @@ import java.io.IOException;
 import java.util.Date;
 
 /**
- * @author zhailiang
+ *
  *
  */
 //@Component

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.image;
 
 import java.awt.image.BufferedImage;
@@ -11,7 +9,7 @@ import com.llionframework.security.core.validate.code.ValidateCode;
 
 /**
  * 图片验证码
- * @author zhailiang
+ *
  *
  */
 public class ImageCode extends ValidateCode {

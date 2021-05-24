@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.validate.code.impl;
 
 import java.util.concurrent.TimeUnit;
@@ -19,7 +17,7 @@ import com.imooc.security.core.validate.code.ValidateCodeType;
 /**
  * 基于redis的验证码存取器，避免由于没有session导致无法存取验证码的问题
  * 
- * @author zhailiang
+ *
  *
  */
 @Component

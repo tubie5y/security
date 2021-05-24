@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.dto;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class FileInfo {

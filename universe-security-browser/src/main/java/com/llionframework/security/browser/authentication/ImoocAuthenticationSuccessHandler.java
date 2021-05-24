@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.browser.authentication;
 
 import java.io.IOException;
@@ -27,7 +25,7 @@ import com.imooc.security.core.support.SimpleResponse;
 /**
  * 浏览器环境下登录成功的处理器
  * 
- * @author zhailiang
+ *
  */
 @Component("imoocAuthenticationSuccessHandler")
 public class ImoocAuthenticationSuccessHandler extends SavedRequestAwareAuthenticationSuccessHandler {

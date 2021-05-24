@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.app.authentication.openid;
 
 import javax.servlet.http.HttpServletRequest;
@@ -18,7 +16,7 @@ import com.imooc.security.core.properties.SecurityConstants;
 /**
  * openId
  * 
- * @author zhailiang
+ *
  *
  */
 public class OpenIdAuthenticationFilter extends AbstractAuthenticationProcessingFilter {

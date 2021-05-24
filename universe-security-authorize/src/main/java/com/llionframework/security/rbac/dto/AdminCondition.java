@@ -1,10 +1,8 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.dto;
 
 /**
- * @author zhailiang
+ *
  *
  */
 public class AdminCondition {

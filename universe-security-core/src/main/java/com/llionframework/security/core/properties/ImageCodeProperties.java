@@ -1,12 +1,10 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.properties;
 
 /**
  * 图片验证码配置项
  * 
- * @author zhailiang
+ *
  *
  */
 public class ImageCodeProperties extends SmsCodeProperties {

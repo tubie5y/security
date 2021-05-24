@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.web.async;
 
 import org.apache.commons.lang.RandomStringUtils;
@@ -12,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.context.request.async.DeferredResult;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @RestController

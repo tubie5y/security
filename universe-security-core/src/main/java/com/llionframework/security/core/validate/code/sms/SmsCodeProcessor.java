@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code.sms;
 
 import com.llionframework.security.core.properties.SecurityConstants;
@@ -14,7 +12,7 @@ import org.springframework.web.context.request.ServletWebRequest;
 /**
  * 短信验证码处理器
  * 
- * @author zhailiang
+ *
  *
  */
 @Component("smsValidateCodeProcessor")

@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.core.validate.code;
 
 import com.llionframework.security.core.properties.SecurityConstants;
@@ -9,7 +7,7 @@ import com.llionframework.security.core.properties.SecurityConstants;
  * 
  * 校验码类型
  * 
- * @author zhailiang
+ *
  *
  */
 public enum ValidateCodeType {

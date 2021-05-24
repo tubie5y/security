@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.llionframework.security.rbac.service.impl;
 
 import java.util.Set;
@@ -16,7 +14,7 @@ import org.springframework.util.AntPathMatcher;
 import com.llionframework.security.rbac.domain.Admin;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Component("rbacService")

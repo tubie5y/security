@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.imooc.sso.server;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -14,7 +12,7 @@ import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
 /**
- * @author zhailiang
+ *
  *
  */
 @Configuration
